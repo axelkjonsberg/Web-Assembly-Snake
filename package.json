@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"create-new": "w4 new",
+		"run-target": "w4 run target/wasm32-unknown-unknown/release/cart.wasm",
+		"watch": "w4 watch"
+	},
+	"devDependencies": {
+		"wasm4": "^2.6.2"
+	}
+}
